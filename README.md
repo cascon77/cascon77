@@ -74,6 +74,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="36" alt="intellij logo"  />
 	<img width="8" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" alt="androidstudio logo"  />
+	<img width="8" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="36" alt="eclipse" />
 	<img width="8" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36" alt="postman" />
