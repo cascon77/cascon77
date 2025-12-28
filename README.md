@@ -1,0 +1,158 @@
+
+<h1 align="center">Hola — mi nombre es Pablo Rodriguez 👋</h1>
+
+###
+
+<p align="center">Soy <strong>Pablo Rodriguez</strong>, Técnico Superior en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong>. Me especializo en desarrollo de aplicaciones, videojuegos y soluciones full‑stack: desde bases de datos hasta interfaces móviles y web.</p>
+
+###
+
+<p align="center"><strong>Actualmente cursando:</strong> Máster en <strong>Ciberseguridad</strong> (ciclo de especialización).</p>
+
+###
+
+<h2 align="left">Sobre mí</h2>
+
+###
+
+<p align="left">🎯 Perfil: Desarrollador con formación en FP Superior (DAM) y experiencia en proyectos personales y académicos en Unity y aplicaciones multiplataforma.<br>
+🔭 Actualmente: profundizando en <strong>Flutter</strong> y mejorando buenas prácticas de seguridad en backend con <strong>Spring Security</strong>.<br>
+📚 Intereses: videojuegos (Unity), arquitecturas backend, bases de datos relacionales, y automatización de pruebas de seguridad.<br>
+🎲 Fun fact: me gusta combinar programación con diseño UI/UX básico para entregar experiencias pulidas.</p>
+
+###
+
+<h2 align="left">Lenguajes y frameworks</h2>
+
+###
+
+<div align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="unity" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" alt="dart" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="flutter" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="36" alt="bootstrap" />
+</div>
+
+###
+
+<h2 align="left">Backend & Bases de datos</h2>
+
+###
+
+<div align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="spring" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="mysql" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="sqlite" />
+</div>
+
+###
+
+<h2 align="left">Herramientas y utilidades</h2>
+
+###
+
+<div align="left">
+	<img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode" />
+	<img width="8" />
+	<img src="https://skillicons.dev/icons?i=intellij" height="36" alt="intellij" />
+	<img width="8" />
+	<img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="androidstudio" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="36" alt="eclipse" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-plain.svg" height="36" alt="dbeaver" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36" alt="postman" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="36" alt="sourcetree" />
+	<img width="8" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-plain.svg" height="36" alt="netbeans" />
+</div>
+
+###
+
+<h2 align="left">Seguridad y testing</h2>
+
+###
+
+<p align="left">🛡️ Pruebas y seguridad: uso de herramientas como <strong>Burp Suite</strong> para auditoría básica y pruebas de seguridad en aplicaciones web y APIs.</p>
+
+###
+
+<h2 align="left">Contacto y redes</h2>
+
+###
+
+<div align="left">
+	<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&style=for-the-badge" height="28" alt="linkedin" /></a>
+	<img width="8" />
+	<a href="https://bsky.app/" target="_blank"><img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=00A1FF&style=for-the-badge" height="28" alt="bluesky" /></a>
+	<img width="8" />
+	<a href="https://t.me/" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&style=for-the-badge" height="28" alt="telegram" /></a>
+	<img width="8" />
+	<a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&style=for-the-badge" height="28" alt="instagram" /></a>
+</div>
+
+###
+
+<h2 align="left">Proyectos destacados</h2>
+
+###
+
+- Unity — prototipo de juego (C#) con lógica de físicas y niveles básicos.
+- Aplicación móvil con Flutter (Dart) para gestión de tareas y sincronización con SQLite/MySQL.
+- API REST con Spring Boot, seguridad con Spring Security y persistencia en PostgreSQL/MySQL.
+
+###
+
+<h2 align="left">¿Qué puedo aportar?</h2>
+
+###
+
+<p align="left">Puedo ayudar en el desarrollo completo de una aplicación: diseño del modelo de datos, implementación de backends seguros, desarrollo de clientes móviles o juegos en Unity, y despliegue básico. Estoy abierto a colaborar en proyectos, prácticas o retos que me permitan crecer profesionalmente.</p>
+
+###
+
+<p align="center">¿Quieres que adapte el tono, añada enlaces a repositorios o un portafolio con capturas? Dime qué prefieres y lo ajusto.</p>
+
+###
+
+<h2 align="left">Estadísticas y actividad (GitHub)</h2>
+
+###
+
+<p align="left">Aquí puedes mostrar tus commits, contribuciones y estadísticas de GitHub. Sustituye <code>TU_USUARIO_GITHUB</code> por tu usuario real para que se muestren tus datos.</p>
+
+<div align="left">
+	<!-- Estadísticas generales -->
+	<img src="https://github-readme-stats.vercel.app/api?username=cascon77&show_icons=true&theme=dracula" height="120" alt="github stats" />
+	<img width="12" />
+	<!-- Lenguajes principales -->
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cascon77&layout=compact&theme=dracula" height="120" alt="top langs" />
+</div>
+
+###
+
+<div align="left">
+	<!-- Contribuciones / calendario -->
+	<img src="https://activity-graph.herokuapp.com/graph?username=cascon77&theme=dracula" alt="activity graph" />
+</div>
