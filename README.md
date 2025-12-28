@@ -140,19 +140,8 @@
 
 ###
 
-<p align="left">Aquí puedes mostrar tus commits, contribuciones y estadísticas de GitHub. Sustituye <code>TU_USUARIO_GITHUB</code> por tu usuario real para que se muestren tus datos.</p>
-
-<div align="left">
-	<!-- Estadísticas generales -->
-	<img src="https://github-readme-stats.vercel.app/api?username=cascon77&show_icons=true&theme=dracula" height="120" alt="github stats" />
-	<img width="12" />
-	<!-- Lenguajes principales -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cascon77&layout=compact&theme=dracula" height="120" alt="top langs" />
-</div>
-
-###
-
-<div align="left">
-	<!-- Contribuciones / calendario -->
-	<img src="https://activity-graph.herokuapp.com/graph?username=cascon77&theme=dracula" alt="activity graph" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cascon77/cascon77/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cascon77/cascon77/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cascon77/cascon77/output/pacman-contribution-graph.svg">
+</picture>
