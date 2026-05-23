@@ -102,8 +102,6 @@
 
 <div align="left">
 	<a href="https://www.linkedin.com/in/pablo-rodr%C3%ADguez-casc%C3%B3n-091731342/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&style=for-the-badge" height="28" alt="linkedin" /></a>
-</div>
-<div align="left">
 	<a href="https://profile.hackthebox.com/profile/019c37f4-67e9-7220-86a5-be23f8782857" target="_blank"><img src="https://img.shields.io/badge/Hack%20The%20Box-grey?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" height="28" alt="Hack The Box" /></a>
 </div>
 
